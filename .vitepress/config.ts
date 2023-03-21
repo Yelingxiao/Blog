@@ -12,6 +12,7 @@ export default defineConfig({
   cacheDir: './.cache',
   outDir: './dist',
   lang: 'zh-CN',
+  base: '/blog/',
   markdown: {
     lineNumbers: true
   },
