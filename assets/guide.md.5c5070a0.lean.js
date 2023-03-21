@@ -1,1 +1,0 @@
-import{_ as t,c as o,o as a,x as e}from"./chunks/framework.a087d028.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"guide.md"}'),s={name:"guide.md"},n=e("blockquote",null,[e("p",null,"building...")],-1),c=[n];function r(d,i,_,l,p,u){return a(),o("div",null,c)}const g=t(s,[["render",r]]);export{f as __pageData,g as default};

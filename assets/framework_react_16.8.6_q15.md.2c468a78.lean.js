@@ -1,0 +1,1 @@
+import{_ as a,c as e,o as t,N as r}from"./chunks/framework.af04725e.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"framework/react/16.8.6/q15.md"}'),o={name:"framework/react/16.8.6/q15.md"},s=r("",3),n=[s];function i(c,_,d,l,h,m){return t(),e("div",null,n)}const p=a(o,[["render",i]]);export{f as __pageData,p as default};

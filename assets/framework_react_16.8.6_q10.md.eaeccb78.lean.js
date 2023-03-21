@@ -1,1 +1,0 @@
-import{_ as s,c as n,o as a,N as l}from"./chunks/framework.a087d028.js";const C=JSON.parse('{"title":"全局变量参考","description":"","frontmatter":{},"headers":[],"relativePath":"framework/react/16.8.6/q10.md"}'),p={name:"framework/react/16.8.6/q10.md"},o=l("",40),e=[o];function c(r,t,F,y,i,D){return a(),n("div",null,e)}const A=s(p,[["render",c]]);export{C as __pageData,A as default};
