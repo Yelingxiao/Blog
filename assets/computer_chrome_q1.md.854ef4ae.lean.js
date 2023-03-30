@@ -1,0 +1,1 @@
+import{_ as e,c as a,o,N as r}from"./chunks/framework.af04725e.js";const u=JSON.parse('{"title":"Chrome架构","description":"","frontmatter":{},"headers":[],"relativePath":"computer/chrome/q1.md"}'),t={name:"computer/chrome/q1.md"},i=r("",3),c=[i];function l(_,h,n,s,m,d){return o(),a("div",null,c)}const C=e(t,[["render",l]]);export{u as __pageData,C as default};

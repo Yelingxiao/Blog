@@ -1,1 +1,0 @@
-import{_ as t,c as n,o,x as e}from"./chunks/framework.af04725e.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"net/net.md"}'),a={name:"net/net.md"},s=e("blockquote",null,[e("p",null,"building...")],-1),c=[s];function r(_,l,d,i,p,u){return o(),n("div",null,c)}const h=t(a,[["render",r]]);export{f as __pageData,h as default};
