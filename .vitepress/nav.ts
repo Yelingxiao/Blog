@@ -26,7 +26,16 @@ const nav: DefaultTheme.NavItem[] = [
     ]
   },
   {text: 'Node.js', link: '/node/node'},
-  {text: '网络协议', link: '/net/net'},
+  {text: '计算机基础', items: [
+    {
+      text: '浏览器工作原理与实践',
+      link: '/computer/chrome/q1'
+    },
+    {
+      text: '数据结构与算法',
+      link: '/computer/algorithms/01'
+    }
+  ]},
   {text: '踩坑记录', link: '/record/record'}
 ]
 

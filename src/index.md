@@ -44,10 +44,10 @@ features:
     linkText: 阅读
 
   - icon:
-      src: /assets/network.svg
-    title: 网络协议
-    details: TCP、Http、Https等等网络协议
-    link: /net
+      src: /assets/computer.svg
+    title: 计算机基础知识
+    details: 数据结构与算法、数学、操作系统、计算机组成原理、计算机网络、软件工程在内的常用计算机科学知识
+    link: /computer
     linkText: 阅读
 
   - icon:

@@ -124,6 +124,24 @@ const sidebar: DefaultTheme.Sidebar = {
       ]
     }
   ],
+  '/computer/chrome/': [
+    {
+      text: '浏览器工作原理与实践',
+      items: [
+        {text: '宏观视角下的浏览器', link: '/computer/chrome/q1'}
+      ]
+    }
+  ],
+  '/computer/algorithms/': [
+    {
+      text: '数据结构与算法之美',
+      items: [
+        {text: '入门篇', link: '/computer/algorithms/01'},
+        {text: '数组', link: '/computer/algorithms/02'},
+        {text: '链表', link: '/computer/algorithms/03'}
+      ]
+    }
+  ]
 }
 
 export default sidebar
