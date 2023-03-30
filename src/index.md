@@ -5,7 +5,7 @@ layout: home
 hero:
   name: "Ylx的前端空间"
   text: "个人成长记录"
-  tagline: 好记性不如烂笔头
+  tagline: 不积跬步，无以至千里
   actions:
     - theme: brand
       text: 开始
